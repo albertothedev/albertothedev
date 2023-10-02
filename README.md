@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi there 👋
 
 I'm Alberto Vilches, a full-stack developer based in Germany working at Trudesk since 2021.
 
