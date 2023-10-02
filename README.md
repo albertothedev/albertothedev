@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Alberto Vilches, a full-stack developer based in Germany working at Trudesk as a full-stack Software Developer since 2021.
+I'm Alberto Vilches, a Full-Stack Software Developer based in Germany working at Trudesk since 2021.
 
 While working at Trudesk, a help-desk service platform, I have helped build a TypeScript API and UI SDK, a high-performance and custom-built GraphQL API in Node.js with MongoDB and Mongoose, and a responsive UI built with React and Next.js.
 
